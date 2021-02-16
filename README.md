@@ -1,3 +1,5 @@
+![Icon](./icons/icon-128.png)
+
 # Warn Before Closing Canvas
 
 Have you ever had an insightful comment typed up as a Canvas discussion post response but then you accidentally closed the tab and lost your post?
