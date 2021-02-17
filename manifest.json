@@ -9,10 +9,16 @@
   "description": "Warn before closing canvas.",
   "content_scripts": [
     {
-      "matches": ["http://*.instructure.com/*", "https://*.instructure.com/*"],
+      "matches": [
+        "http://*.instructure.com/*discussion_topics*",
+        "https://*.instructure.com/*discussion_topics*"
+      ],
       "js": ["content_script.js"]
     }
   ],
   "manifest_version": 2,
-  "permissions": ["http://*.instructure.com/*", "https://*.instructure.com/*"]
+  "permissions": [
+    "http://*.instructure.com/*discussion_topics*",
+    "https://*.instructure.com/*discussion_topics*"
+  ]
 }

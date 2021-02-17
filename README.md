@@ -6,7 +6,7 @@ Have you ever had an insightful comment typed up as a Canvas discussion post res
 
 ![Insightful Comment](./screenshots/insightful-comment.png)
 
-This extension warns you before you close _any_ Canvas tab (i.e. any tab on a site that matches `*.instructure.com/*`) so this hopefully doesn't happen to you again.
+This extension warns you before you close _any_ Canvas tab (i.e. any tab on a site that matches `*.instructure.com/*discussion_topics*`) so this hopefully doesn't happen to you again.
 
 ![Warning](./screenshots/warning.png)
 
